@@ -5,7 +5,11 @@
 let personal = Personal(name: "Andrey Posnov",
                         mainTechStack: "Swift, Objective-C",
                         website: "http://aposnov.dev",
-                        description: "I have 15+ years of software development experience,10 of them as fullstack web developer, 7 of them as mobile developer and 4 of them as CEO in my own startup digital studio (closed in 2018). Sometimes these roles intersected. I've always been interested in different areas, but for the last 5 years I've been passionate about mobile development. ")
+                        description: "I have 15+ years of software development experience,
+                        10 of them as fullstack web developer, 7 of them as mobile developer 
+                        and 4 of them as CEO in my own startup digital studio (closed in 2018).
+                        Sometimes these roles intersected. I've always been interested in different
+                        areas, but for the last 5 years I've been passionate about mobile development. ")
 
 var company = Company(name: "Mati",
                       area: "FinTech",
