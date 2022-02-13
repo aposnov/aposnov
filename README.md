@@ -13,7 +13,9 @@ let personal = Personal(name: "Andrey Posnov",
 
 var company = Company(name: "Metamap",
                       area: "FinTech",
-                      location: "San-Francisco, United States")
+                      location: "San-Francisco, United States",
+                      url: "https://metamap.com"
+                      )
 
 let developer = Developer(personal: personal, company: company)
 
