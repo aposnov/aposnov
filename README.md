@@ -11,7 +11,7 @@ let personal = Personal(name: "Andrey Posnov",
                         Sometimes these roles intersected. I've always been interested in different
                         areas, but for the last 5 years I've been passionate about mobile development. ")
 
-var company = Company(name: "Mati",
+var company = Company(name: "Metamap",
                       area: "FinTech",
                       location: "San-Francisco, United States")
 
