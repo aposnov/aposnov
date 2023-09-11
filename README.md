@@ -16,17 +16,20 @@ let personal = Personal(name: "Andrey Posnov",
                         complex challenges and deliver innovative solutions. My advanced project and product
                         management abilities have enabled me to successfully lead cross-functional teams,
                         ensuring efficient delivery and high-quality outcomes.
-                        I am known for my excellent communication skills, fostering effective collaboration and
+                        I am known for my excellent communication skills, fostering effective collaboration
+                        and
                         building strong relationships with stakeholders at all levels.
 
-                        Continuously striving for professional growth, I actively participate in seminars, courses, and industry
-                        events to stay at the forefront of technological advancements. Additionally, I contribute to the software
-                        development community by sharing my knowledge through articles and videos, helping others enhance
-                        their skills and stay up to date with the latest trends.
+                        Continuously striving for professional growth, I actively participate in seminars,
+                        courses, and industry events to stay at the forefront of technological advancements.
+                        Additionally, I contribute to the software development community by sharing my knowledge
+                        through articles and videos, helping others enhance their skills and stay up to date
+                        with the latest trends.
 
-                        Also, In my spare time, I am actively engaged in managing my IT-focused blog, which has garnered
-                        a following of more than 3500 subscribers. Additionally, I take on the role of mentor, providing
-                        guidance and support to team leaders, developers, and testers, contributing to their professional
+                        Also, In my spare time, I am actively engaged in managing my IT-focused blog,
+                        which has garnered a following of more than 3500 subscribers. Additionally,
+                        I take on the role of mentor, providing guidance and support to team leaders,
+                        developers, and testers, contributing to their professional
                         growth and success in the field.
                         ")
 
