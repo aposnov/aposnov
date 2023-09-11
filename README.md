@@ -35,21 +35,20 @@ let personal = Personal(name: "Andrey Posnov",
 
 var company = Company(name: "None",
                       area: "None",
-                      location: "Remote",
-                      url: "None"
+                      location: "Remote"
                       )
 
-let developer = Developer(personal: personal, company: company)
+let engineeringManager = EngineeringManager(personal: personal, company: company)
 
-struct Developer {
+struct EngineeringManager {
     let personal: Personal?
     let company: Company?
 }
 
 struct Personal {
     let name: String?
-    let mainTechStack: String?
-    let website: String?
+    let city: String?
+    let country: String?
     let description: String?
 }
 
