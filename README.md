@@ -5,7 +5,7 @@
 let personal = Personal(name: "Andrey Posnov",
                         city: "Barcelona",
                         country: "Spain",
-                        description: """
+                        description: "
                         I am experienced Engineering Lead with over 10 years of
                                       hands-on experience in full-stack development.
                                       Proven track record of leading high-performing
@@ -16,7 +16,7 @@ let personal = Personal(name: "Andrey Posnov",
                                       Ready to leverage over a decade of experience
                                        to drive technical excellence and business success
                                       in a dynamic environment.
-                        """)
+                        ")
 
 var company = Company(name: "None",
                       area: "None",
