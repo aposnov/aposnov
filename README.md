@@ -5,20 +5,26 @@
 let personal = Personal(name: "Andrey Posnov",
                         city: "Barcelona",
                         country: "Spain",        
-                        description: "I am experienced Engineering Lead with over 10 years of hands-on experience in full-stack development.
-                                      Proven track record of leading high-performing engineering teams to deliver innovative and scalable solutions.
-                                      Skilled in software architecture, Agile methodologies, and cross-functional collaboration. Passionate about mentorship and talent development.
-                                       Ready to leverage over a decade of experience to drive technical excellence and business success in a dynamic environment.
+                        description: "I am experienced Engineering Lead with over 10 years of
+                                      hands-on experience in full-stack development.
+                                      Proven track record of leading high-performing
+                                      engineering teams to deliver innovative and scalable solutions.
+                                      Skilled in software architecture, Agile methodologies,
+                                      and cross-functional collaboration. Passionate about
+                                      mentorship and talent development.
+                                      Ready to leverage over a decade of experience
+                                       to drive technical excellence and business success
+                                      in a dynamic environment.
                         ")
 
 var company = Company(name: "None",
                       area: "None",
-                      location: "Remote"
+                      location: "Remote/Spain"
                       )
 
-let engineeringManager = EngineeringManager(personal: personal, company: company)
+let engineeringLead= EngineeringLeader(personal: personal, company: company)
 
-struct EngineeringManager {
+struct EngineeringLeader {
     let personal: Personal?
     let company: Company?
 }
