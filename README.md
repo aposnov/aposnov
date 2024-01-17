@@ -4,9 +4,9 @@
 ```swift
 let personal = Personal(name: "Andrey Posnov",
                         city: "Barcelona",
-                        country: "Spain",        
+                        country: "Spain",
                         description: """
-                                      I am experienced Engineering Lead with over 10 years of
+                        I am experienced Engineering Lead with over 10 years of
                                       hands-on experience in full-stack development.
                                       Proven track record of leading high-performing
                                       engineering teams to deliver innovative and scalable solutions.
