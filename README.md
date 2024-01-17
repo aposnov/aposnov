@@ -5,7 +5,8 @@
 let personal = Personal(name: "Andrey Posnov",
                         city: "Barcelona",
                         country: "Spain",        
-                        description: "I am experienced Engineering Lead with over 10 years of
+                        description: """
+                                      I am experienced Engineering Lead with over 10 years of
                                       hands-on experience in full-stack development.
                                       Proven track record of leading high-performing
                                       engineering teams to deliver innovative and scalable solutions.
@@ -15,14 +16,14 @@ let personal = Personal(name: "Andrey Posnov",
                                       Ready to leverage over a decade of experience
                                        to drive technical excellence and business success
                                       in a dynamic environment.
-                        ")
+                        """)
 
 var company = Company(name: "None",
                       area: "None",
                       location: "Remote/Spain"
                       )
 
-let engineeringLead= EngineeringLeader(personal: personal, company: company)
+let engineeringLead = EngineeringLeader(personal: personal, company: company)
 
 struct EngineeringLeader {
     let personal: Personal?
