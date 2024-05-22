@@ -1,6 +1,3 @@
-![Andrey Banner](https://github.com/aposnov/aposnov/blob/main/github.png)
-
-## <img width="45" alt="about" src=https://github.com/aposnov/aposnov/blob/main/about.png> About me
 ```swift
 let personal = Personal(name: "Andrey Posnov",
                         city: "Barcelona",
