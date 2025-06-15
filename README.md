@@ -1,3 +1,75 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aposnov">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  <a href="https://github.com/aposnov">
+    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+  </a>
+  <a href="mailto:aposnovdev@gmail.com">
+    <img height="50" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</p>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Andrey Posnov
+role: Engineering Manager
+location: Barcelona, Spain
+experience: 10+ years
+current_company: Travelport
+team_size: 9 engineers
+languages:
+  - Russian: Native
+  - English: C1
+  - Spanish: B1
+specialties:
+  - Leading high-performing teams
+  - Building inclusive engineering cultures
+  - Full-stack development
+  - Technical mentorship
+authorization: EU work authorized
+```
+
+## 🚀 Professional Summary
+
+Engineering Manager with 10+ years of experience in software development, specializing in leading diverse, high-performing teams and fostering transparent, inclusive engineering cultures. Passionate about empowering teams to achieve their best work, grow in their careers, and create an environment where diverse ideas thrive.
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ```rust
 use std::collections::HashMap;
 
@@ -144,3 +216,28 @@ fn main() {
     println!("🌍 Authorized to work in the EU");
 }
 ```
+
+## 🌟 Featured Content
+
+- 📝 **Tech Blog**: Telegram channel with 7k+ followers
+- 🎥 **YouTube**: Tech content with 1k+ subscribers  
+- 🎓 **Teaching**: Former lecturer at GeekBrains (iOS Development & Software Architecture) and Ambassador Yandex.Practicum
+- 📚 **Publications**: Articles on Habr Magazine about Swift, WebSocket, NodeJS and more
+
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/aposnov">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:aposnovdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/aposnov">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
