@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=000000"/>
 </p>
 
 <p align="center">
@@ -26,16 +26,29 @@ role: Engineering Manager
 location: Barcelona, Spain
 experience: 10+ years
 current_company: Travelport
-team_size: 9 engineers
+team_management:
+  max_team_size: 20 engineers
+  teams_led: 3 cross-functional teams
+  current_team: 9 engineers
+infrastructure_expertise:
+  - AWS (EC2, S3, Lambda, DynamoDB, PostgreSQL)
+  - Terraform & Infrastructure as Code
+  - Ansible automation
+  - Vault secrets management
+observability_monitoring:
+  - Datadog/Splunk/Fullstory
+  - Performance optimization
+  - System reliability
+  - Proactive monitoring
 languages:
   - Russian: Native
   - English: C1
   - Spanish: B1
-specialties:
-  - Leading high-performing teams
-  - Building inclusive engineering cultures
-  - Full-stack development
-  - Technical mentorship
+core_strengths:
+  - Scaling engineering teams
+  - DevOps & Infrastructure
+  - Building resilient systems
+  - Data-driven decision making
 authorization: EU work authorized
 ```
 
@@ -53,22 +66,17 @@ Engineering Manager with 10+ years of experience in software development, specia
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original-wordmark.svg" alt="vault" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="45" height="45"/>
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ```rust
 use std::collections::HashMap;
