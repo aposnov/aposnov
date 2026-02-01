@@ -7,7 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrey_Posnov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aposnov)
 [![GitHub](https://img.shields.io/badge/GitHub-aposnov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aposnov)
 [![Email](https://img.shields.io/badge/Email-aposnovdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aposnovdev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aposnov_life)
 
 </div>
 
