@@ -1,251 +1,115 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20👋&animation=fadeIn&type=waving&color=gradient&height=100&fontColor=000000"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Andrey%20Posnov&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Leader%20%7C%20Builder&descAlignY=55&descAlign=50"/>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/aposnov">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
-  <a href="https://github.com/aposnov">
-    <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </a>
-  <a href="mailto:aposnovdev@gmail.com">
-    <img height="50" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrey_Posnov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aposnov)
+[![GitHub](https://img.shields.io/badge/GitHub-aposnov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aposnov)
+[![Email](https://img.shields.io/badge/Email-aposnovdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aposnovdev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aposnov_life)
+
+</div>
+
+<br />
 
 ## 👨‍💻 About Me
 
-```yaml
-name: Andrey Posnov
-role: Engineering Manager
-location: Barcelona, Spain
-experience: 10+ years
-current_company: Travelport
-team_management:
-  max_team_size: 20 engineers
-  teams_led: 3 cross-functional teams
-  current_team: 9 engineers
-infrastructure_expertise:
-  - AWS (EC2, S3, Lambda, DynamoDB, PostgreSQL)
-  - Terraform & Infrastructure as Code
-  - Ansible automation
-  - Vault secrets management
-observability_monitoring:
-  - Datadog/Splunk/Fullstory
-  - Performance optimization
-  - System reliability
-  - Proactive monitoring
-languages:
-  - Russian: Native
-  - English: C1
-  - Spanish: B1
-core_strengths:
-  - Scaling engineering teams
-  - DevOps & Infrastructure
-  - Building resilient systems
-  - Data-driven decision making
-authorization: EU work authorized
-```
+> **Engineering Manager** with **10+ years** of experience building high-load distributed systems.
+> based in **Barcelona, Spain** 🇪🇸
+> Currently leading engineering at **Super** 🚀
 
-## 🚀 Professional Summary
+I specialize in scaling cross-functional teams (Backend, Frontend, Mobile, DevOps) and optimizing engineering processes for global platforms. Skilled in bridging technical strategy with business goals to deliver secure, scalable, and data-driven solutions.
 
-Engineering Manager with 10+ years of experience in software development, specializing in leading diverse, high-performing teams and fostering transparent, inclusive engineering cultures. Passionate about empowering teams to achieve their best work, grow in their careers, and create an environment where diverse ideas thrive.
+<details>
+<summary>⚡ <strong>Quick Stats</strong></summary>
+<br />
 
-## 🛠️ Tech Stack
+- 👥 **Team Leadership**: Managed teams of up to 20 engineers.
+- 🌍 **Languages**: Russian (Native), English (C1), Spanish (B1).
+- 🏗️ **Infrastructure**: NodeJS, Python, AWS, Terraform, Kubernetes.
+- 🎓 **Education**: Master's in Computer Science.
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" alt="terraform" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" alt="ansible" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vault/vault-original-wordmark.svg" alt="vault" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg" alt="argocd" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="45" height="45"/>
-</p>
+</details>
 
+<details>
+<summary>🤓 <strong>The "Code" Version (Rust)</strong></summary>
 
-```rust
-use std::collections::HashMap;
-
-#[derive(Debug, Clone)]
-struct Personal {
-    name: String,
-    email: String,
-    linkedin: String,
-    github: String,
-    location: String,
-    languages: Vec<Language>,
-}
-
-#[derive(Debug, Clone)]
-struct Language {
-    name: String,
-    level: String,
-}
-
-#[derive(Debug, Clone)]
-struct Experience {
-    company: String,
-    position: String,
-    period: String,
-    location: String,
-    description: Vec<String>,
-    tech_stack: Vec<String>,
-}
-
-#[derive(Debug, Clone)]
-struct Education {
-    institution: String,
-    degree: String,
-    period: String,
-}
-
-#[derive(Debug, Clone)]
+\`\`\`rust
 struct EngineeringManager {
-    personal: Personal,
-    summary: String,
-    experience: Vec<Experience>,
-    education: Vec<Education>,
-    additional_info: HashMap<String, Vec<String>>,
+    name: "Andrey Posnov",
+    role: "Engineering Manager",
+    location: "Barcelona, Spain",
+    experience: "10+ years",
+    current_company: "Super",
+    strengths: vec![
+        "Scaling Cross-functional Teams",
+        "High-load Distributed Systems",
+        "KYC & Compliance Flows"
+    ]
 }
+\`\`\`
+</details>
 
-fn main() {
-    let andrey = EngineeringManager {
-        personal: Personal {
-            name: "Andrey Posnov".to_string(),
-            email: "aposnovdev@gmail.com".to_string(),
-            linkedin: "https://linkedin.com/in/aposnov".to_string(),
-            github: "https://github.com/aposnov".to_string(),
-            location: "Barcelona, Spain".to_string(),
-            languages: vec![
-                Language { name: "Russian".to_string(), level: "Native".to_string() },
-                Language { name: "English".to_string(), level: "C1".to_string() },
-                Language { name: "Spanish".to_string(), level: "B1".to_string() },
-            ],
-        },
-        
-        summary: "Engineering Manager with 10+ years of experience in software development, \
-                 specializing in leading diverse, high-performing teams and fostering transparent, \
-                 inclusive engineering cultures. Passionate about empowering teams to achieve their \
-                 best work, grow in their careers, and create an environment where diverse ideas thrive."
-                 .to_string(),
-        
-        experience: vec![
-            Experience {
-                company: "Travelport".to_string(),
-                position: "Engineering Manager".to_string(),
-                period: "Feb 2024 – Present".to_string(),
-                location: "Barcelona, Spain".to_string(),
-                description: vec![
-                    "Managing a team of 9 engineers across multiple disciplines".to_string(),
-                    "Spearheading initiatives to improve deployment speed and product quality".to_string(),
-                ],
-                tech_stack: vec![
-                    "JavaScript".to_string(), "TypeScript".to_string(), "NodeJS".to_string(),
-                    "React".to_string(), "C#".to_string(), "GraphQL".to_string(), "AWS".to_string(),
-                ],
-            },
-            
-            Experience {
-                company: "MetaMap".to_string(),
-                position: "SDK Lead -> Staff Engineer -> Engineering Manager".to_string(),
-                period: "April 2020 – December 2024".to_string(),
-                location: "Remote, San Francisco, USA".to_string(),
-                description: vec![
-                    "Led teams of up to 20 software engineers (Backend, Frontend, Mobile)".to_string(),
-                    "Built processes: hiring, onboarding, research, knowledge sharing".to_string(),
-                    "Elevated quality of input data by 30% through client-side checks".to_string(),
-                ],
-                tech_stack: vec![
-                    "Swift".to_string(), "Kotlin".to_string(), "JavaScript".to_string(),
-                    "NodeJS".to_string(), "React".to_string(), "PostgreSQL".to_string(), "AWS".to_string(),
-                ],
-            },
-        ],
-        
-        education: vec![
-            Education {
-                institution: "Rosnou Moscow".to_string(),
-                degree: "Master's degree of Computer Science".to_string(),
-                period: "2007 – 2012".to_string(),
-            },
-        ],
-        
-        additional_info: {
-            let mut info = HashMap::new();
-            info.insert("certifications".to_string(), vec![
-                "Algorithms and Data Structures, Practicum USA (2021)".to_string(),
-            ]);
-            info.insert("publications".to_string(), vec![
-                "SQLite via FMDB in Swift (2016)".to_string(),
-                "WebSocket + NodeJS (2016)".to_string(),
-                "WebSocket in Swift (2020)".to_string(),
-            ]);
-            info.insert("teaching".to_string(), vec![
-                "Visiting Lecturer at Geekbrains (2019–2021)".to_string(),
-                "iOS Development & Software Architecture".to_string(),
-            ]);
-            info.insert("blogging".to_string(), vec![
-                "Tech blog: Telegram ~7k followers".to_string(),
-                "YouTube ~1k subscribers".to_string(),
-                "LinkedIn ~2k followers".to_string(),
-            ]);
-            info
-        },
-    };
+---
 
-    println!("👋 Hello! I'm {}", andrey.personal.name);
-    println!("📧 {}", andrey.personal.email);
-    println!("🔗 {}", andrey.personal.linkedin);
-    println!("🐙 {}", andrey.personal.github);
-    println!("📍 Currently based in {}", andrey.personal.location);
-    
-    println!("\n🚀 {}", andrey.summary);
-    
-    println!("\n💼 Currently working at {} as {}", 
-             andrey.experience[0].company, 
-             andrey.experience[0].position);
-    
-    println!("\n🛠️ Core technologies: Rust, Go, TypeScript, React, AWS, Kubernetes");
-    println!("🌍 Authorized to work in the EU");
-}
-```
+## 🛠️ Technology Stack
 
-## 🌟 Featured Content
-
-- 📝 **Tech Blog**: Telegram channel with 7k+ followers
-- 🎥 **YouTube**: Tech content with 1k+ subscribers  
-- 🎓 **Teaching**: Former lecturer at GeekBrains (iOS Development & Software Architecture) and Ambassador Yandex.Practicum
-- 📚 **Publications**: Articles on Habr Magazine about Swift, WebSocket, NodeJS and more
-
-## 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://linkedin.com/in/aposnov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:aposnovdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/aposnov">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+### **Backend & Languages**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
-<p align="center">
+### **Frontend & Mobile**
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+</p>
+
+### **DevOps & Infrastructure**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
+
+## 💼 Experience
+
+### **Super** (Madrid - Remote)
+**Engineering Manager** | _Oct 2025 – Present_
+- Leading engineering efforts at Super.
+
+### **Travelport** (Barcelona, Spain)
+**Engineering Manager** | _Jun 2024 – Oct 2025_
+- Led a team of 9 engineers across multiple disciplines.
+- Spearheaded initiatives to improve deployment speed and product quality.
+
+### **MetaMap** (Remote)
+**Engineering Manager / Staff Engineer** | _2021 – 2024_
+- Led teams of up to 20 engineers.
+- Focused on Digital Identity and KYC flows.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical&count_private=true" alt="Andrey's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</div>
