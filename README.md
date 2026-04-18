@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Andrey%20Posnov&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Leader%20%7C%20Builder&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Andrey%20Posnov&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Leader%20%7C%20Builder&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -12,99 +12,109 @@
 
 <br />
 
-## 👨‍💻 About Me
+## 👨‍💻 Biography
 
-> **Engineering Manager** with **10+ years** of experience building high-load distributed systems.
-> based in **Barcelona, Spain** 🇪🇸
-> Currently leading engineering at **Super** 🚀
+Engineering Leader with **10+ years** of experience building high-load distributed systems. Deep domain expertise in **Digital Identity, KYC, and Compliance** flows. Proven track record of scaling cross-functional teams (Backend, Frontend, Mobile, DevOps) and optimizing engineering processes for global platforms. 
 
-I specialize in scaling cross-functional teams (Backend, Frontend, Mobile, DevOps) and optimizing engineering processes for global platforms. Skilled in bridging technical strategy with business goals to deliver secure, scalable, and data-driven solutions.
+Skilled in bridging technical strategy with business goals to deliver secure, scalable, and data-driven solutions.
 
-<details>
-<summary>⚡ <strong>Quick Stats</strong></summary>
 <br />
 
-- 👥 **Team Leadership**: Managed teams of up to 20 engineers.
-- 🌍 **Languages**: Russian (Native), English (C1), Spanish (B1).
-- 🏗️ **Infrastructure**: NodeJS, Python, AWS, Terraform, Kubernetes.
-- 🎓 **Education**: Master's in Computer Science.
+<details open>
+<summary>⚡ <strong>Quick Highlights</strong></summary>
+<br />
+
+- 👥 **Team Leadership**: Scaled and managed teams of up to 20 ICs.
+- 🌍 **Location**: Barcelona, Catalonia, Spain 🇪🇸 (Remote)
 
 </details>
 
-<details>
-<summary>🤓 <strong>The "Code" Version (Rust)</strong></summary>
+---
 
-\`\`\`rust
-struct EngineeringManager {
-    name: "Andrey Posnov",
-    role: "Engineering Manager",
-    location: "Barcelona, Spain",
-    experience: "10+ years",
-    current_company: "Super",
-    strengths: vec![
-        "Scaling Cross-functional Teams",
-        "High-load Distributed Systems",
-        "KYC & Compliance Flows"
-    ]
-}
-\`\`\`
-</details>
+## 💼 Professional Experience
+
+### **Engineering Manager** @ **Super**
+*Barcelona, Spain (Remote) | Oct 2025 — Present*
+- Leading the **Player Onboarding** domain during a hyper-growth phase.
+- Building a robust, high-load platform to support millions of users globally.
+
+### **Engineering Manager** @ **Travelport**
+*Barcelona, Spain (On-site) | Feb 2024 — Oct 2025*
+- Drove cross-functional collaboration to deliver impactful features and optimize engineering processes.
+- Introduced agile practices and led initiatives in observability, security, and operational reliability.
+
+### **Engineering Manager / Staff Engineer** @ **MetaMap**
+*San Francisco, US (Remote) | 2020 — 2024*
+- Led engineering teams building a high-scale Customer Identity & Trust Platform.
+- **Identity & KYC Expertise**: Deep focus on user verification workflows and fraud prevention.
+- **Operational Efficiency**: Architected a service that slashed SDK delivery time from 30 days to minutes.
+
+### **Lead Software Engineer & Consultant** @ **DapIt.**
+*Moscow, Russia | 2018 — 2020*
+- Delivered 30+ projects across Android and iOS platforms.
+- Built end-to-end APIs using NodeJS (Express) and Python (Django).
+
+### **Co-founder & Engineering Lead** @ **IDFC**
+*Moscow, Russia | 2014 — 2018*
+- Founded and scaled a digital agency to a 10-person team.
+- Architected complex web solutions (CRM, ERM) and launched a client hosting service.
+
+### **Software Engineer (Fullstack)** @ **First BIT**
+*Moscow, Russia | 2013 — 2014*
+- Engineered E-commerce and custom CRM/ERM systems.
+- 30% increase in sales through new client hosting infrastructure.
+
+### **Solution Engineer** @ **Kontur**
+*Moscow, Russia | 2012 — 2013*
+
+### **Solution Engineer (Intern)** @ **CROC**
+*Moscow, Russia | 2008 — 2011*
 
 ---
 
 ## 🛠️ Technology Stack
 
-### **Backend & Languages**
+### **Backend**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-### **Frontend & Mobile**
+### **Frontend**
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### **Mobile**
+<p>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
 ### **DevOps & Infrastructure**
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
-
 ---
 
-## 💼 Experience
-
-### **Super** (Madrid - Remote)
-**Engineering Manager** | _Oct 2025 – Present_
-- Leading engineering efforts at Super.
-
-### **Travelport** (Barcelona, Spain)
-**Engineering Manager** | _Jun 2024 – Oct 2025_
-- Led a team of 9 engineers across multiple disciplines.
-- Spearheaded initiatives to improve deployment speed and product quality.
-
-### **MetaMap** (Remote)
-**Engineering Manager / Staff Engineer** | _2021 – 2024_
-- Led teams of up to 20 engineers.
-- Focused on Digital Identity and KYC flows.
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical&count_private=true" alt="Andrey's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical&count_private=true" height="180em" />
 </div>
 
 <br/>
