@@ -51,8 +51,8 @@ Skilled in bridging technical strategy with business goals to deliver secure, sc
 
 ### **Lead Software Engineer & Consultant** @ **DapIt.**
 *Moscow, Russia | 2018 — 2020*
-- Delivered 30+ projects across Android and iOS platforms.
-- Built end-to-end APIs using NodeJS (Express) and Python (Django).
+- Led cross-functional teams delivering and supporting mobile products across Android and iOS in diverse domains (e-commerce, Network, transport, media).
+- Drove backend architecture and API strategy using Node.js (Express) and Python (Django), focusing on performance, reliability, and long-term maintainability.
 
 ### **Co-founder & Engineering Lead** @ **IDFC**
 *Moscow, Russia | 2014 — 2018*
