@@ -1,145 +1,188 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Andrey%20Posnov&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Engineering%20Manager%20%7C%20Tech%20Leader%20%7C%20Builder&descAlignY=55&descAlign=50"/>
-</div>
 
-<div align="center">
+# Andrey Posnov
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrey_Posnov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aposnov)
-[![GitHub](https://img.shields.io/badge/GitHub-aposnov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aposnov)
-[![Email](https://img.shields.io/badge/Email-aposnovdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aposnovdev@gmail.com)
+**Engineering Manager** · builds regulated, high-load platforms by day · ships apps and games by night
+
+📍 Barcelona, Spain · Remote-friendly · Happy where I am, always up for a chat
+
+<br />
+
+[![Website](https://img.shields.io/badge/aposnov.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://aposnov.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aposnov)
+[![Email](https://img.shields.io/badge/aposnovdev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aposnovdev@gmail.com)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/developer/andrey-posnov/id1896516611)
 
 </div>
 
 <br />
 
-## 👨‍💻 Biography
-
-Engineering Leader with **10+ years** of experience building high-load distributed systems. Deep domain expertise in **Digital Identity, KYC, and Compliance** flows. Proven track record of scaling cross-functional teams (Backend, Frontend, Mobile, DevOps) and optimizing engineering processes for global platforms. 
-
-Skilled in bridging technical strategy with business goals to deliver secure, scalable, and data-driven solutions.
+<table align="center">
+  <tr>
+    <td align="center"><b>10+ yrs</b><br /><sub>shipping software</sub></td>
+    <td align="center"><b>10M+ users · ~1M DAU</b><br /><sub>platform I own today</sub></td>
+    <td align="center"><b>100K+ / day</b><br /><sub>KYC verifications, 10× growth</sub></td>
+    <td align="center"><b>20 ICs</b><br /><sub>largest org led</sub></td>
+    <td align="center"><b>3 apps</b><br /><sub>in the App Store</sub></td>
+    <td align="center"><b>2 PRs</b><br /><sub>merged into grafana/gcx</sub></td>
+  </tr>
+</table>
 
 <br />
 
-<details open>
-<summary>⚡ <strong>Quick Highlights</strong></summary>
-<br />
+## What I do
 
-- 👥 **Team Leadership**: Scaled and managed teams of up to 20 ICs.
-- 🌍 **Location**: Barcelona, Catalonia, Spain 🇪🇸 (Remote)
+I lead engineering teams in regulated, high-traffic domains: iGaming, KYC/identity, and travel retail. I run cross-functional teams of 10–20 across backend, web, mobile, and QA, partner with Compliance, Legal, and Risk, and keep engineering execution aligned with VP-level priorities across Engineering, Product, and Data.
 
-</details>
+I still write code. Most of my evenings go into App Store apps, a paid-bookings SaaS, and a multiplayer game on Unreal Engine 5. I also drive AI-tooling adoption across my tribe: usage standards, guardrails, workshops, and daily agentic workflows.
 
----
+## Now
 
-## 💼 Professional Experience
+- **Engineering Manager @ [Super.xyz](https://super.xyz)** — own the User Onboarding product area (Registration, Activation, Phone Verification) for a platform serving 10M+ users and ~1M DAU.
+- Drive expansion into new regulated markets: jurisdictional KYC, AML, licensing, and responsible-gambling requirements across the onboarding funnel.
+- After hours: shipping [Fingerinth](#-things-i-build-after-hours), [ClockOff](#-things-i-build-after-hours), and a UE5 shooter.
 
-### **Engineering Manager** @ **Super**
-*Barcelona, Spain (Remote) | Oct 2025 — Present*
-- Leading the **Player Onboarding** domain during a hyper-growth phase.
-- Building a robust, high-load platform to support millions of users globally.
+## Experience
 
-### **Engineering Manager** @ **Travelport**
-*Barcelona, Spain (On-site) | Feb 2024 — Oct 2025*
-- Drove cross-functional collaboration to deliver impactful features and optimize engineering processes.
-- Introduced agile practices and led initiatives in observability, security, and operational reliability.
+| Role | Company | Years | Highlights |
+|---|---|---|---|
+| Engineering Manager | **Super.xyz** — entertainment, sports betting & gaming | 2025 – now | Own User Onboarding for 10M+ users / ~1M DAU. Team of 10 (BE, FE, mobile, QA). Regulated-market expansion with Compliance, Legal, Risk. Erlang, Kafka, Go, EKS, Terraform, AWS. |
+| Engineering Manager | **Travelport** — global travel retail platform | 2024 – 2025 | Stood up end-to-end observability (Datadog, Splunk, FullStory). Led security & supply-chain hardening (SonarQube, Sonatype, BoostSecurity, Okta SSO). TS/Node, React, C#/.NET, GraphQL, AWS, Azure. |
+| Staff Engineer → Engineering Manager | **MetaMap** — KYC / AML identity verification | 2020 – 2023 | Scaled verification pipeline to 100K+ daily checks (10× growth). Led up to 20 ICs across mobile, backend, frontend. Architected hybrid WebView SDK on AWS: update delivery 30 days → minutes, adopted by 12 teams. |
+| Lead Software Engineer & Consultant | **Dapit** — outsourcing & consulting | 2018 – 2020 | Led iOS, Android, and backend delivery across e-commerce, network, transport, media. Backend architecture and API strategy in Node.js and Python/Django. |
+| Co-founder & Engineering Lead | **IDF Company** — digital agency | 2014 – 2017 | Bootstrapped to 10 engineers; owned P&L, hiring, and delivery as hands-on architect for e-com / CRM / ERP. Launched managed hosting retaining ~60% of clients. |
+| Software Engineer (Fullstack) | **First BIT** — digital agency | 2013 – 2014 | Full-stack e-commerce and CRM/ERP on Bitrix. Hosting infrastructure that drove ~30% sales growth. |
 
-### **Engineering Manager / Staff Engineer** @ **MetaMap**
-*San Francisco, US (Remote) | 2020 — 2024*
-- Led engineering teams building a high-scale Customer Identity & Trust Platform.
-- **Identity & KYC Expertise**: Deep focus on user verification workflows and fraud prevention.
-- **Operational Efficiency**: Architected a service that slashed SDK delivery time from 30 days to minutes.
+🎓 MSc Computer Science — Rosnou, Moscow (2007 – 2012)
 
-### **Lead Software Engineer & Consultant** @ **DapIt.**
-*Moscow, Russia | 2018 — 2020*
-- Led cross-functional teams delivering and supporting mobile products across Android and iOS in diverse domains (e-commerce, Network, transport, media).
-- Drove backend architecture and API strategy using Node.js (Express) and Python (Django), focusing on performance, reliability, and long-term maintainability.
+## 🛠 Things I build after hours
 
-### **Co-founder & Engineering Lead** @ **IDFC**
-*Moscow, Russia | 2014 — 2018*
-- Founded and scaled a digital agency to a 10-person team.
-- Architected complex web solutions (CRM, ERM) and launched a client hosting service.
+> Side projects, but I treat them like real ones: App Store review, StoreKit, localization, tests, analytics, landing pages.
 
-### **Software Engineer (Fullstack)** @ **First BIT**
-*Moscow, Russia | 2013 — 2014*
-- Engineered E-commerce and custom CRM/ERM systems.
-- 30% increase in sales through new client hosting infrastructure.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌀 Fingerinth &nbsp;<img src="https://img.shields.io/badge/App%20Store-live-34C759?style=flat-square" alt="App Store" /></h3>
+      <p>Finger-maze game for iOS: drag through the maze, don't lift, don't touch the walls. 360 hand-tuned levels across 8 themes, each with its own mechanic (fog, teleports, rising water, searchlight).</p>
+      <p><sub><b>Stack:</b> SwiftUI + SpriteKit · StoreKit 2 · GameKit · CoreHaptics · 9 locales</sub><br />
+      <sub><b>Detail:</b> 70+ Game Center achievements and 8 leaderboards provisioned via the App Store Connect API; mazes generated by a BFS-verified recursive backtracker.</sub></p>
+      <p><a href="https://apps.apple.com/app/id6770310131">App Store</a> · <a href="https://fingerinth.aposnov.dev">Landing</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⏱ ClockOff &nbsp;<img src="https://img.shields.io/badge/App%20Store-live-34C759?style=flat-square" alt="App Store" /></h3>
+      <p>macOS menu-bar overwork tracker. Turns unpaid overtime into a live "lost money" counter, to the cent, so you actually go home.</p>
+      <p><sub><b>Stack:</b> SwiftUI + AppKit · <code>@Observable</code> · 6 locales · 60 tests</sub><br />
+      <sub><b>Detail:</b> sandbox-safe idle detection without Accessibility permissions; overtime warnings via <code>NSPanel</code>, no notification permission needed.</sub></p>
+      <p><a href="https://apps.apple.com/app/id6778173719">App Store</a> · <a href="https://clockoff.aposnov.dev">Landing</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧹 PosCleaner &nbsp;<img src="https://img.shields.io/badge/App%20Store-live-34C759?style=flat-square" alt="App Store" /></h3>
+      <p>macOS menu-bar cleaner for developers. Reclaims gigabytes from caches, build artifacts, and stray <code>node_modules</code> with a review-before-delete flow.</p>
+      <p><sub><b>Stack:</b> Swift + SwiftUI · SPM · Vision / MobileCLIP for duplicate-image matching · signed pkg pipeline</sub></p>
+      <p><a href="https://apps.apple.com/app/id6767878524">App Store</a> · <a href="https://poscleaner.aposnov.dev">Landing</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 Calendjke &nbsp;<img src="https://img.shields.io/badge/SaaS-live-34C759?style=flat-square" alt="Live" /></h3>
+      <p>Paid bookings without the Calendly tax. A slot is confirmed only after the Stripe payment lands; syncs to Google Calendar.</p>
+      <p><sub><b>Stack:</b> Next.js 16 · React 19 · PostgreSQL (raw <code>pg</code>, no ORM) · Stripe · Google Calendar API · Docker on Hetzner</sub><br />
+      <sub><b>Detail:</b> double-booking is impossible by construction: a Postgres <code>EXCLUDE USING gist</code> constraint over <code>tstzrange</code>, with one idempotent confirm path shared by webhook and success page.</sub></p>
+      <p><a href="https://calendjke.aposnov.dev">Landing</a> · <a href="https://app.calendjke.aposnov.dev">App</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Equipage.AI &nbsp;<img src="https://img.shields.io/badge/SaaS-beta-FF9F0A?style=flat-square" alt="Beta" /></h3>
+      <p>AI command center for Telegram channel admins: audience analytics, AI insights, auto-generated sites, CRM, and a content calendar in one place.</p>
+      <p><sub><b>Stack:</b> Next.js + TypeScript · Python / FastAPI / Celery / Telethon · Node + BullMQ · PostgreSQL · Hetzner · Prometheus + Grafana</sub><br />
+      <sub><b>Detail:</b> solo-built and operated end to end, including the AWS → Hetzner migration and the monitoring stack.</sub></p>
+      <p><a href="https://equipage.ai">equipage.ai</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔫 TIMEKILL &nbsp;<img src="https://img.shields.io/badge/UE5-pre--alpha-8E8E93?style=flat-square" alt="Pre-alpha" /></h3>
+      <p>10-player free-for-all shooter where everyone is force-rotated through 10 historical-era warriors every 1–3 minutes. Dedicated servers, no lobbies, no loadouts, pure adaptation.</p>
+      <p><sub><b>Stack:</b> Unreal Engine 5.8 + Lyra · AngelScript (Hazelight fork) · C++ bridge layer · EOS · Edgegap dedicated servers</sub><br />
+      <sub><b>Detail:</b> all live gameplay in AngelScript, C++ reduced to a thin bridge; packaged builds assert no EOS secrets leak into the pak.</sub></p>
+      <p><sub>Private repo, pre-alpha v0.9.7. Ask me about it.</sub></p>
+    </td>
+  </tr>
+</table>
 
-### **Solution Engineer** @ **Kontur**
-*Moscow, Russia | 2012 — 2013*
+## 🌱 Open source
 
-### **Solution Engineer (Intern)** @ **CROC**
-*Moscow, Russia | 2008 — 2011*
+- **[grafana/gcx](https://github.com/grafana/gcx)** — mTLS client-certificate auth with Teleport integration: [#553](https://github.com/grafana/gcx/pull/553) (config + auth) and [#571](https://github.com/grafana/gcx/pull/571) (login path). Both merged, 2026.
+- **[glovo-export-personal-orders](https://github.com/aposnov/glovo-export-personal-orders)** — export your Glovo and Amazon order history to JSON locally. Every API call runs inside the page via Playwright, so the access token never reaches Node, disk, or logs.
+- **[binance_spain_tax_helper](https://github.com/aposnov/binance_spain_tax_helper)** — FIFO capital-gains calculator for Spanish AEAT filings (Modelo 100 / 721) from Binance CSV exports.
+- **[html-2-md](https://github.com/aposnov/html-2-md)** — turn Telegram HTML chat exports into clean Markdown.
 
----
+## 🧰 Stack
 
-## 🛠️ Technology Stack
+> Polyglot by choice, opinionated by experience.
 
-### **Backend**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
+**Backend**
+&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Erlang](https://img.shields.io/badge/Erlang-A90533?style=flat-square&logo=erlang&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-### **Web**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+**Mobile & native**
+&nbsp;
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![SpriteKit](https://img.shields.io/badge/SpriteKit-000000?style=flat-square&logo=apple&logoColor=white)
+![StoreKit 2](https://img.shields.io/badge/StoreKit%202-000000?style=flat-square&logo=appstore&logoColor=white)
 
-### **Mobile**
-<p>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
+**Web**
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
-### **DevOps & Infrastructure**
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Helm-0F1628?style=for-the-badge&logo=helm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/GitHub%20Actions-20232A?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+**Cloud & ops**
+&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes%20%2F%20EKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+**Games**
+&nbsp;
+![Unreal Engine 5](https://img.shields.io/badge/Unreal%20Engine%205-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![AngelScript](https://img.shields.io/badge/AngelScript-1C1C1C?style=flat-square)
 
-### **AI & ML**
-<p>
-  <img src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000" />
-  <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
-  <img src="https://img.shields.io/badge/Cursor-000000?logo=cursor" />
-</p>
+**AI tooling** — Claude Code and agentic workflows daily; I define the usage standards and guardrails my teams adopt.
 
-### **Other Tools**
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" /> 
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white" />
-</p>
+## 🧭 How I lead
 
----
+- **People first, then process.** Hiring, 1:1s, performance management, and clear technical standards across the full stack.
+- **Reliability is a feature.** Stood up observability and security programs from zero; regulator-driven changes ship on deadline without breaking production.
+- **Product-led delivery.** Engineering execution tied to business KPIs: conversion, time-to-first-deposit, market-launch velocity.
 
-## 📈 GitHub Insights
+## 📈 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=radical&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=radical&count_private=true" height="180em" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=default&hide_border=true&count_private=true" height="165" alt="Top languages" />
+  </picture>
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <sub>Happy where I am — just building for fun. Always up for a chat: <a href="mailto:aposnovdev@gmail.com">aposnovdev@gmail.com</a></sub>
 </div>
