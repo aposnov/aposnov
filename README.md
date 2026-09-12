@@ -172,12 +172,12 @@ I still write code. Most of my evenings go into App Store apps, a paid-bookings 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=aposnov&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aposnov&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aposnov&theme=github" height="180" alt="GitHub stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aposnov&layout=compact&theme=default&hide_border=true&count_private=true" height="165" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aposnov&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aposnov&theme=github" height="180" alt="Top languages by commit" />
   </picture>
 </div>
 
